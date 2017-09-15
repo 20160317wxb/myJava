@@ -27,7 +27,6 @@ public class darkString {
 				}
 			}
 			
-			
 			if(flag){
 				if(map.containsKey(s)){
 					map.put(s, map.get(s)+1);
